@@ -1,6 +1,5 @@
 # Importing libraries
 import cv2
-import numpy as np
 
 # Reading image
 img = cv2.imread("kid.jpg")
